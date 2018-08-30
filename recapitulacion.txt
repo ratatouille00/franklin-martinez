@@ -1,0 +1,4 @@
+Hoy comprendi la diferencia entre dominio, sitio web y hosting.
+Tambien las diferentes paginas que ofrecen esos servicios.
+La metodologia de SEO para que la pagina este ubicada en una posicion mejor en los navegadores.
+Como instalar DEBIAN 9.
